@@ -1,0 +1,39 @@
+void Main(int a, double b)
+{
+	int c  = 11111;
+
+	if (a < 12)
+		int a = 12;
+		else if (b == 1) {
+			if (a == 2)
+				a = 2;
+		}
+		else
+			a = 12;
+
+	string bb()
+	{
+		return "asd";
+	}
+
+	if (f == 1)
+		a = 12;
+
+	int c = 11;
+	int a = 112;
+
+	while (a < 12) {
+		a = 12;
+		if (a ==12)
+			a = 2;
+	}
+
+	return abd(12, 2);
+
+	return 12 * a;
+}
+
+int abd(int a, int b)
+{
+	return a;
+}
